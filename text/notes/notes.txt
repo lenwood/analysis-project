@@ -1,0 +1,9 @@
+The age variable has a high percentage of NA's. Experiment with filling in those values.
+
+I've extracted the title names. I'll work to add age based on the average of each title.
+
+The file cleanTrain.csv has cleaned data and includes ages for all passengers.
+
+My 1st submission was just women & children (under age 18). That got me to 0.73206.
+
+Try running model using only pclass, sex, age, sibsp, parch & fare.
